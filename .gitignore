@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python Virtual Environments & Caches
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Node Modules (React)
+node_modules/
+dist/
+
+# OS Files
+.DS_Store
